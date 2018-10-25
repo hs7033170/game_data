@@ -1,6 +1,6 @@
 {     
 "version": {      
-"name": "1.0.0",     
+"name": "1.0",     
 "title":"New Version",   
 "content": "- Fix bugs"  
 }
